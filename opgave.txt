@@ -1,0 +1,40 @@
+What Can We Do with This Data?
+
+
+Data Cleaning
+
+Convert Bedtime & Wake-up Time to proper time format.
+
+Handle any missing or inconsistent values.
+
+Normalize categorical values (e.g., "medium" vs. "Medium").
+
+
+
+Sorting & Filtering
+
+Sort by Sleep Quality, Daily Steps, or Calories Burned.
+
+Filter users with poor sleep quality (Sleep Quality < 6).
+
+Identify users with both Sleep Disorders and Medication Usage.
+
+
+
+Data Analysis
+
+Find the average Sleep Quality per age group.
+
+Analyze how Physical Activity Level affects Sleep Quality.
+
+Determine if Dietary Habits correlate with Sleep Quality.
+
+
+
+Data Visualization
+
+Plot Sleep Quality vs. Daily Steps.
+
+Show distribution of Bedtime & Wake-up Time.
+
+Compare Calories Burned across Activity Levels.
