@@ -1,6 +1,0 @@
-ID,Product Name,Category,Quantity,Unit Price,Sale Date,Store
-1,Milk,Household,7.5,2.0,2023-07-13,Store B
-2,Eggs,,10.0,2.0,2023-07-10,Store A
-8,Cheese,Household,7.5,2.0,2023-07-23,Store C
-11,Bread,Household,1.0,3.75,2023-07-08,Store A
-29,Cheese,,3.0,2.0,2023-07-15,Store B
